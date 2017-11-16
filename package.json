@@ -1,0 +1,22 @@
+{
+  "name": "serverapp",
+  "version": "1.0.0",
+  "description": "best practices nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serhatgurkan/node-test.git"
+  },
+  "author": "Serhat Gürkan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serhatgurkan/node-test/issues"
+  },
+  "homepage": "https://github.com/serhatgurkan/node-test#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
